@@ -1,0 +1,29 @@
+{
+  "name": "prueba_1_ntp",
+  "version": "1.0.0",
+  "description": "Evaluacion primera semana",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giothc94/prueba_1_NTP.git"
+  },
+  "author": "Jordan C.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/giothc94/prueba_1_NTP/issues"
+  },
+  "homepage": "https://github.com/giothc94/prueba_1_NTP#readme",
+  "dependencies": {
+    "axios": "0.21.1"
+  },
+  "devDependencies": {
+    "express": "4.17.1",
+    "nodemon": "2.0.7"
+  }
+}
